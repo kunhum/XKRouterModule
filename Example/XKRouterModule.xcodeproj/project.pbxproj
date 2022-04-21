@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		37251A181B8CDA9A9B8D693E /* libPods-XKRouterModule_Example.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 012FC71AE84B002DA9915969 /* libPods-XKRouterModule_Example.a */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
 		607FACD81AFB9204008FA782 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD71AFB9204008FA782 /* ViewController.swift */; };
 		607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607FACD91AFB9204008FA782 /* Main.storyboard */; };
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
-		CB1C819B514AC76A15E2CC63 /* Pods_XKRouterModule_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D29E58DF3F371F8803FC7F05 /* Pods_XKRouterModule_Example.framework */; };
-		F51FAE21DBFE5D6FC003FF4B /* Pods_XKRouterModule_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B80946CC1A93B9BC505C0A6 /* Pods_XKRouterModule_Tests.framework */; };
+		BF1B9C270D513642DCF6A2DF /* libPods-XKRouterModule_Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 63006247F49DC2F03F31169E /* libPods-XKRouterModule_Tests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,10 +28,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0B80946CC1A93B9BC505C0A6 /* Pods_XKRouterModule_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XKRouterModule_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		012FC71AE84B002DA9915969 /* libPods-XKRouterModule_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-XKRouterModule_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		117D4136CDDB7C976490333A /* Pods-XKRouterModule_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XKRouterModule_Example.release.xcconfig"; path = "Target Support Files/Pods-XKRouterModule_Example/Pods-XKRouterModule_Example.release.xcconfig"; sourceTree = "<group>"; };
 		2AF0389BAC1BDCE3C54FB354 /* Pods-XKRouterModule_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XKRouterModule_Tests.release.xcconfig"; path = "Target Support Files/Pods-XKRouterModule_Tests/Pods-XKRouterModule_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		2C4EFD1688AFB122CC1B26DA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		2C4EFD1688AFB122CC1B26DA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* XKRouterModule_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XKRouterModule_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -42,11 +42,11 @@
 		607FACE51AFB9204008FA782 /* XKRouterModule_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XKRouterModule_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		7B32F4F27442B1FDC9B23C7F /* XKRouterModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = XKRouterModule.podspec; path = ../XKRouterModule.podspec; sourceTree = "<group>"; };
+		63006247F49DC2F03F31169E /* libPods-XKRouterModule_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-XKRouterModule_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7B32F4F27442B1FDC9B23C7F /* XKRouterModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XKRouterModule.podspec; path = ../XKRouterModule.podspec; sourceTree = "<group>"; };
 		7B4921FA2FB3DEA2E807C052 /* Pods-XKRouterModule_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XKRouterModule_Tests.debug.xcconfig"; path = "Target Support Files/Pods-XKRouterModule_Tests/Pods-XKRouterModule_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A252382DF34B4BA7C87C457C /* Pods-XKRouterModule_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XKRouterModule_Example.debug.xcconfig"; path = "Target Support Files/Pods-XKRouterModule_Example/Pods-XKRouterModule_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		A25BC5FE8B0108FC98E2DE94 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		D29E58DF3F371F8803FC7F05 /* Pods_XKRouterModule_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XKRouterModule_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A25BC5FE8B0108FC98E2DE94 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CB1C819B514AC76A15E2CC63 /* Pods_XKRouterModule_Example.framework in Frameworks */,
+				37251A181B8CDA9A9B8D693E /* libPods-XKRouterModule_Example.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,7 +62,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F51FAE21DBFE5D6FC003FF4B /* Pods_XKRouterModule_Tests.framework in Frameworks */,
+				BF1B9C270D513642DCF6A2DF /* libPods-XKRouterModule_Tests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,8 +72,8 @@
 		1995F70993B88D9E65F752E6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				D29E58DF3F371F8803FC7F05 /* Pods_XKRouterModule_Example.framework */,
-				0B80946CC1A93B9BC505C0A6 /* Pods_XKRouterModule_Tests.framework */,
+				012FC71AE84B002DA9915969 /* libPods-XKRouterModule_Example.a */,
+				63006247F49DC2F03F31169E /* libPods-XKRouterModule_Tests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -156,7 +156,6 @@
 				7B4921FA2FB3DEA2E807C052 /* Pods-XKRouterModule_Tests.debug.xcconfig */,
 				2AF0389BAC1BDCE3C54FB354 /* Pods-XKRouterModule_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -171,7 +170,6 @@
 				607FACCC1AFB9204008FA782 /* Sources */,
 				607FACCD1AFB9204008FA782 /* Frameworks */,
 				607FACCE1AFB9204008FA782 /* Resources */,
-				A51EEFDF009AF97D25A3F3DB /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -227,6 +225,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -304,24 +303,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		A51EEFDF009AF97D25A3F3DB /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-XKRouterModule_Example/Pods-XKRouterModule_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/XKRouterModule/XKRouterModule.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/XKRouterModule.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-XKRouterModule_Example/Pods-XKRouterModule_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -419,7 +400,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -465,7 +446,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -479,12 +460,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = XKRouterModule/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -494,12 +476,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = XKRouterModule/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};

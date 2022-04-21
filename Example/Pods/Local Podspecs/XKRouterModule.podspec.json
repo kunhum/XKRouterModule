@@ -1,0 +1,22 @@
+{
+  "name": "XKRouterModule",
+  "version": "0.1.0",
+  "summary": "A short description of XKRouterModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kenneth/XKRouterModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kenneth": "kunhum@163.com"
+  },
+  "source": {
+    "git": "https://github.com/kenneth/XKRouterModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XKRouterModule/Classes/**/*"
+}

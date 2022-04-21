@@ -1,0 +1,6 @@
+module Pods_XKRouterModule_Example {
+  umbrella header "Pods-XKRouterModule_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

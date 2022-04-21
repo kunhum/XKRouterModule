@@ -1,0 +1,16 @@
+PODS:
+  - XKRouterModule (0.1.0)
+
+DEPENDENCIES:
+  - XKRouterModule (from `../`)
+
+EXTERNAL SOURCES:
+  XKRouterModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XKRouterModule: 6050c05d5574ca2425ae0948a5a6aa4ffcbade46
+
+PODFILE CHECKSUM: ffc995d856892ea384a26f2594d7a9a9bf155ae7
+
+COCOAPODS: 1.11.2

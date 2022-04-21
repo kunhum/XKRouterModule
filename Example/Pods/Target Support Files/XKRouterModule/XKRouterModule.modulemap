@@ -1,0 +1,6 @@
+module XKRouterModule {
+  umbrella header "XKRouterModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
